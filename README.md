@@ -1,6 +1,6 @@
 # Aplicativo de Clima ☀️🌧️
 
-Aplicativo web para consultar a previsão do tempo de qualquer cidade, utilizando Python (Flask) no backend e HTML/CSS/JS no frontend. O backend consome a API Open-Meteo e o frontend pode ser hospedado no Vercel.
+Aplicativo web para consultar a previsão do tempo de qualquer cidade, utilizando Python (Flask) no backend e HTML/CSS/JS no frontend. O backend consome a API Open-Meteo.
 
 ## Funcionalidades
 
