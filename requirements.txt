@@ -1,2 +1,5 @@
 # Dependências do projeto
+flask
+flask-cors
 requests
+gunicorn
